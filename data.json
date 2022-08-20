@@ -1,0 +1,707 @@
+{
+    "data": {
+        "standardizedTitle": "urn:li:fs_title:3172",
+        "companyDetails": {
+            "company": "urn:li:fs_normalized_company:38632",
+            "*companyResolutionResult": "urn:li:fs_normalized_company:38632",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingCompany"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+        },
+        "matchType": null,
+        "employmentStatus": "urn:li:fs_employmentStatus:FULL_TIME",
+        "ownerViewEnabled": false,
+        "skillMatches": null,
+        "hiringDashboardViewEnabled": false,
+        "trackingPixelUrl": null,
+        "talentHubJob": false,
+        "formattedLocation": "Lahore, Punjab, Pakistan",
+        "companyDescription": {
+            "attributes": [
+                {
+                    "start": 441,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 442,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                }
+            ],
+            "text": "CureMD is an award-winning network of health information management systems and services, offering certified EMR, practice management, patient portal and medical billing to help accelerate adoption and Meaningful Use qualification-driving outcomes and subsidy payments to maximize value and returns. CureMD's advanced web technology and award winning usability facilitate quality decision making, streamline operations and ensure compliance.\n\nCureMD All-in-One EMR solution is designed to personalize care delivery, enhance quality and patient safety, optimize efficiency and minimize cost. Our integrated platform includes practice management, electronic health records, patient portal and mobile care solution for medical practices of all sizes.",
+            "$type": "com.linkedin.pemberly.text.AttributedText"
+        },
+        "jobPostingUrl": "https://www.linkedin.com/jobs/view/3225811060/?trk=jobs_biz_prem_srch",
+        "applies": 89,
+        "*allJobHiringTeamMembersInjectionResult": "urn:li:fs_jobHiringTeam:3225811060",
+        "poster": null,
+        "dashEntityUrn": "urn:li:fsd_jobPosting:3225811060",
+        "*employmentStatusResolutionResult": "urn:li:fs_employmentStatus:FULL_TIME",
+        "eligibleForLearningCourseRecsUpsell": true,
+        "eligibleForSharingProfileWithPoster": true,
+        "trustReviewDecision": null,
+        "originalListedAt": 1660843757000,
+        "entityUrn": "urn:li:fs_normalized_jobPosting:3225811060",
+        "workRemoteAllowed": false,
+        "applyMethod": {
+            "applyStartersPreferenceVoid": true,
+            "companyApplyUrl": "https://curemd.wd1.myworkdayjobs.com/en-US/CureMD/job/Lahore/Assistant-Frontend-Developer_JR100636",
+            "$type": "com.linkedin.voyager.jobs.OffsiteApply"
+        },
+        "benefitsDataSource": "JOB_POSTER",
+        "*savingInfo": "urn:li:fs_jobSavingInfo:3225811060",
+        "draftApplicationInfo": null,
+        "formattedJobFunctions": [
+            "Engineering",
+            "Information Technology"
+        ],
+        "messagingStatus": null,
+        "dashJobPostingCardUrn": "urn:li:fsd_jobPostingCard:(3225811060,JOB_DETAILS)",
+        "locationVisibility": "ADDRESS",
+        "appeal": null,
+        "expireAt": 1663436428000,
+        "$recipeTypes": [
+            "com.linkedin.voyager.deco.jobs.web.shared.WebFullJobPosting"
+        ],
+        "$type": "com.linkedin.voyager.jobs.JobPosting",
+        "standardizedAddresses": null,
+        "claimableByViewer": false,
+        "inferredBenefits": [],
+        "formattedIndustries": [
+            "Computer Software"
+        ],
+        "industries": [
+            4
+        ],
+        "salaryInsights": {
+            "lockModuleShown": true,
+            "salaryExplorerUrl": "https://www.linkedin.com/salary/",
+            "insightExists": false,
+            "jobCompensationAvailable": true,
+            "$type": "com.linkedin.voyager.premium.SalaryInsights"
+        },
+        "country": "urn:li:fs_country:pk",
+        "jobPosterEntitlements": {
+            "entitledToCopyJob": false,
+            "entitledToAccessJobDashboard": false,
+            "$type": "com.linkedin.voyager.jobs.JobPosterEntitlements",
+            "entitledToViewFreeJobInfo": false,
+            "entitledToPromoteJob": false,
+            "entitledToEditJob": false,
+            "entitledToViewBillingInfo": false
+        },
+        "*applyingInfo": "urn:li:fs_jobApplyingInfo:3225811060",
+        "locationUrn": "urn:li:fs_geo:104112529",
+        "jobApplicationLimitReached": false,
+        "closedAt": null,
+        "new": true,
+        "applicantTrackingSystem": "Workday",
+        "topNRelevanceReasonsInjectionResult": {
+            "*reasons": [
+                "urn:li:fs_jobPostingRelevanceReason:(urn:li:fs_normalized_jobPosting:3225811060,ACTIVELY_HIRING_COMPANY)"
+            ],
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.WebAllJobPostingRelevanceReasons"
+            ],
+            "$type": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReasons"
+        },
+        "workplaceTypes": [],
+        "contentSource": "JOBS_PREMIUM_OFFLINE",
+        "postalAddress": null,
+        "messagingToken": null,
+        "formattedExperienceLevel": "Entry level",
+        "yearsOfExperienceMatch": null,
+        "jobFunctions": [
+            "ENG",
+            "IT"
+        ],
+        "benefits": [],
+        "encryptedPricingParams": "CwIAAAGCsxm5JFr_zd20BjUKx-uiLntuFej78VUirx7MzTHN8eTsnXmVRt1FVPR63mRGu76NY2rHpMeMnZoQgRfiUDVuOGZyNG0-9yZscEUyymrMhJJQoPo3FSJksj9xEp7ALJg-n019EqRn8Kew9w69LKsFYtGIoYAWUb2qRZ32xPXJSzkIdwo_-YahfnifnRT6j5KV4EKxYREGydZXng",
+        "jobState": "LISTED",
+        "trackingUrn": "urn:li:jobPosting:3225811060",
+        "description": {
+            "attributes": [
+                {
+                    "start": 79,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 80,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 98,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 81,
+                    "length": 18,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Bold"
+                    },
+                    "attributeKindUnion": {
+                        "bold": {
+                            "$type": "com.linkedin.pemberly.text.Bold"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 99,
+                    "length": 143,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 242,
+                    "length": 53,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 295,
+                    "length": 80,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 375,
+                    "length": 49,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 424,
+                    "length": 79,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 503,
+                    "length": 65,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 568,
+                    "length": 75,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 741,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 742,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 643,
+                    "length": 100,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 99,
+                    "length": 644,
+                    "type": {
+                        "ordered": false,
+                        "$type": "com.linkedin.pemberly.text.List"
+                    },
+                    "attributeKindUnion": {
+                        "list": {
+                            "ordered": false,
+                            "$type": "com.linkedin.pemberly.text.List"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 758,
+                    "length": 1,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.LineBreak"
+                    },
+                    "attributeKindUnion": {
+                        "lineBreak": {
+                            "$type": "com.linkedin.pemberly.text.LineBreak"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 743,
+                    "length": 16,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.Bold"
+                    },
+                    "attributeKindUnion": {
+                        "bold": {
+                            "$type": "com.linkedin.pemberly.text.Bold"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 759,
+                    "length": 53,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 812,
+                    "length": 55,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 867,
+                    "length": 63,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 930,
+                    "length": 45,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 975,
+                    "length": 54,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 1029,
+                    "length": 19,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 1048,
+                    "length": 25,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 1073,
+                    "length": 61,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 1134,
+                    "length": 57,
+                    "type": {
+                        "$type": "com.linkedin.pemberly.text.ListItem"
+                    },
+                    "attributeKindUnion": {
+                        "listItem": {
+                            "$type": "com.linkedin.pemberly.text.ListItem"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                },
+                {
+                    "start": 759,
+                    "length": 432,
+                    "type": {
+                        "ordered": false,
+                        "$type": "com.linkedin.pemberly.text.List"
+                    },
+                    "attributeKindUnion": {
+                        "list": {
+                            "ordered": false,
+                            "$type": "com.linkedin.pemberly.text.List"
+                        }
+                    },
+                    "$type": "com.linkedin.pemberly.text.Attribute"
+                }
+            ],
+            "text": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nResponsibilities:\nDevelopment of HTML/CSS and web pages based on wireframes and visual designs, and implementation of commercial and open source web technologiesDevelopment of dynamic and engaging web functionalityTurn Photoshop/Figma files into animated, responsive web pages using HTML5, CSS3Ensure the technical feasibility of UI/UX designsWork closely with design team as technology advisor to help guide project scopeThoroughly test your work on multiple browsers and mobile devicesDemonstrate effective communication with fellow team members and managementRapidly prototype ideas in order to learn what works and how to elevate concepts to the next level\n\nQualifications:\nBasic understanding of web markup, including HTML/CSSBasic understanding of HTML/CSS frame works (Bootstrap)Basic understanding of CSS Pre-Processing platforms (LESS/SCSS)Basic understanding of Responsive DevelopmentGreatly enjoys programming and solving logic problems Must be Team PlayerGood communication skillsBasic understanding of client-side scripting jQuery is a plusFamiliarity with tools such as Photoshop/Figma is a plus.",
+            "$type": "com.linkedin.pemberly.text.AttributedText"
+        },
+        "hiringTeamEntitlements": null,
+        "formattedEmploymentStatus": "Full-time",
+        "repostedJobPosting": null,
+        "title": "Assistant Frontend Developer",
+        "skillsDescription": null,
+        "trustReviewSla": null,
+        "jobRegion": null,
+        "thirdPartySourced": false,
+        "views": 169,
+        "*standardizedTitleResolutionResult": "urn:li:fs_title:3172",
+        "eligibleForReferrals": false,
+        "listedAt": 1660844430000,
+        "degreeMatches": null,
+        "jobPostingId": 3225811060,
+        "allowedToEdit": false,
+        "sourceDomain": "curemd.wd1.myworkdayjobs.com"
+    },
+    "included": [
+        {
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followingCount": null,
+            "$type": "com.linkedin.voyager.common.FollowingInfo",
+            "entityUrn": "urn:li:fs_followingInfo:urn:li:company:38632",
+            "following": false,
+            "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:38632",
+            "followerCount": 71806
+        },
+        {
+            "resumeDownloadUrl": null,
+            "appliedTime": null,
+            "resumeFileType": null,
+            "entityUrn": "urn:li:fs_jobApplyingInfo:3225811060",
+            "applied": false,
+            "activities": null,
+            "closed": false,
+            "viewedByJobPosterAt": null,
+            "resumeFileName": null,
+            "appliedAt": null,
+            "$type": "com.linkedin.voyager.entities.shared.JobApplyingInfo"
+        },
+        {
+            "saved": false,
+            "entityUrn": "urn:li:fs_jobSavingInfo:3225811060",
+            "savedAt": null,
+            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:3225811060)",
+            "$type": "com.linkedin.voyager.entities.shared.JobSavingInfo"
+        },
+        {
+            "entityUrn": "urn:li:fs_jobHiringTeam:3225811060",
+            "hiringTeamMembers": [],
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.WebAllJobHiringTeamMembers"
+            ],
+            "$type": "com.linkedin.voyager.jobs.JobHiringTeam"
+        },
+        {
+            "jobPostingRelevanceReasonDetail": {
+                "activelyHiringCompany": true,
+                "$recipeTypes": [
+                    "com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingRelevanceReasonDetail"
+                ],
+                "relevanceReasonFlavor": "ACTIVELY_HIRING_COMPANY",
+                "$type": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReasonDetail"
+            },
+            "entityUrn": "urn:li:fs_jobPostingRelevanceReason:(urn:li:fs_normalized_jobPosting:3225811060,ACTIVELY_HIRING_COMPANY)",
+            "jobPosting": "urn:li:fs_normalized_jobPosting:3225811060",
+            "details": null,
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedJobPostingRelevanceReason"
+            ],
+            "$type": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReason"
+        },
+        {
+            "localizedName": "Full-time",
+            "entityUrn": "urn:li:fs_employmentStatus:FULL_TIME",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.shared.WebFullEmploymentStatus"
+            ],
+            "$type": "com.linkedin.voyager.jobs.shared.EmploymentStatus"
+        },
+        {
+            "localizedName": "Frontend Developer",
+            "entityUrn": "urn:li:fs_title:3172",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.jobs.web.shared.WebFullTitle"
+            ],
+            "$type": "com.linkedin.voyager.jobs.shared.Title"
+        },
+        {
+            "description": "CureMD is an award-winning network of health information management systems and services, offering certified EMR, practice management, patient portal and medical billing to help accelerate adoption and Meaningful Use qualification-driving outcomes and subsidy payments to maximize value and returns. CureMD's advanced web technology and award winning usability facilitate quality decision making, streamline operations and ensure compliance.\r\n\r\nCureMD All-in-One EMR solution is designed to personalize care delivery, enhance quality and patient safety, optimize efficiency and minimize cost. Our integrated platform includes practice management, electronic health records, patient portal and mobile care solution for medical practices of all sizes.",
+            "staffCount": 966,
+            "viewerFollowingJobsUpdates": false,
+            "entityUrn": "urn:li:fs_normalized_company:38632",
+            "staffCountRange": {
+                "start": 501,
+                "end": 1000,
+                "$type": "com.linkedin.voyager.organization.shared.StaffCountRange"
+            },
+            "headquarter": {
+                "geographicArea": "NY",
+                "country": "US",
+                "city": "New York",
+                "postalCode": "10271",
+                "line1": "120 Broadway",
+                "$type": "com.linkedin.common.Address"
+            },
+            "logo": {
+                "image": {
+                    "$type": "com.linkedin.common.VectorImage",
+                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFgU6zE-7cGRA/company-logo_",
+                    "artifacts": [
+                        {
+                            "width": 200,
+                            "expiresAt": 1668643200000,
+                            "fileIdentifyingUrlPathSegment": "200_200/0/1519857000411?e=1668643200&v=beta&t=kGUKDYbtjY3f63rbuOORen0_4GoaHV3jYTpClwQcX8s",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 200
+                        },
+                        {
+                            "width": 100,
+                            "expiresAt": 1668643200000,
+                            "fileIdentifyingUrlPathSegment": "100_100/0/1519857000411?e=1668643200&v=beta&t=fmzp7o_7svG1a4GpT1Zcx7u4b3mJoHyLA3GMvbpV3sc",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 100
+                        },
+                        {
+                            "width": 400,
+                            "expiresAt": 1668643200000,
+                            "fileIdentifyingUrlPathSegment": "400_400/0/1519857000411?e=1668643200&v=beta&t=tYkxMN5x7hDeXF9G8N6s5t8Uaho0OTbYG44wBvkQAYo",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 400
+                        }
+                    ]
+                },
+                "type": "SQUARE_LOGO",
+                "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+            },
+            "universalName": "curemd",
+            "specialities": [
+                "Medical Billing Software",
+                "EHR",
+                "Medical Practice Management",
+                "RCM",
+                "Software",
+                "Medical Office Software",
+                "Cloud",
+                "Billing Service",
+                "Electronic Health Record",
+                "CureMD EHR",
+                "Small Practice Management"
+            ],
+            "coverPhoto": {
+                "$type": "com.linkedin.voyager.common.MediaProcessorImage",
+                "id": "/AAEAAQAAAAAAAAjHAAAAJGViOGRiOGVhLWRkYjUtNGZhNy1iYTNiLWM5YTgwNmI2OTU3Mg.png"
+            },
+            "*followingInfo": "urn:li:fs_followingInfo:urn:li:company:38632",
+            "$recipeTypes": [
+                "com.linkedin.voyager.deco.organization.shared.WebJobCompany"
+            ],
+            "url": "https://www.linkedin.com/company/curemd",
+            "$type": "com.linkedin.voyager.organization.Company",
+            "lcpTreatment": true,
+            "industries": [
+                "Computer Software"
+            ],
+            "name": "CureMD",
+            "backgroundCoverImage": {
+                "image": {
+                    "$type": "com.linkedin.common.VectorImage",
+                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D1BAQEo0QRXJCt3Ew/company-background_",
+                    "artifacts": [
+                        {
+                            "width": 10000,
+                            "expiresAt": 1661468400000,
+                            "fileIdentifyingUrlPathSegment": "10000/0/1618254489669?e=1661468400&v=beta&t=dPfTjHx4jPjSb6B_o0gVNcrnBmVaz4xU97vXWpdskm4",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 10000
+                        },
+                        {
+                            "width": 400,
+                            "expiresAt": 1661468400000,
+                            "fileIdentifyingUrlPathSegment": "400/0/1618254489669?e=1661468400&v=beta&t=7z_kIbwuNaWV6EpKHyHv7WP3fhGgRvPBg2FVD1OXlqg",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 400
+                        },
+                        {
+                            "width": 200,
+                            "expiresAt": 1661468400000,
+                            "fileIdentifyingUrlPathSegment": "200/0/1618254489669?e=1661468400&v=beta&t=abR9iEf8P_Sx7Hu9Z7ljR5otqWOQnZ-B37VwVj4YPrI",
+                            "$type": "com.linkedin.common.VectorArtifact",
+                            "height": 200
+                        }
+                    ]
+                },
+                "$type": "com.linkedin.voyager.identity.profile.BackgroundImage",
+                "cropInfo": {
+                    "width": 3300,
+                    "x": 0,
+                    "y": 162,
+                    "$type": "com.linkedin.voyager.identity.profile.ImageCropInfo",
+                    "height": 558
+                }
+            }
+        }
+    ]
+}
